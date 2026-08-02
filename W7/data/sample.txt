@@ -1,0 +1,13 @@
+Retrieval-Augmented Generation (RAG) is a technique that improves large language model answers by grounding them in external documents.
+
+In a RAG system, the workflow is usually:
+1. Load documents and extract text
+2. Split the text into smaller chunks
+3. Convert chunks into embeddings
+4. Store them in a vector database for similarity search
+5. Retrieve the most relevant chunks for a user query
+6. Use the retrieved context to generate a more accurate answer
+
+This approach is useful for private or domain-specific knowledge because the model can answer using your own documents instead of relying only on its training data.
+
+RAG systems are commonly used in chatbots, enterprise search, customer support, and documentation assistants.
