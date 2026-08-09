@@ -1,0 +1,181 @@
+image_path,category,split
+images\Shirts_0000.jpg,Shirts,train
+images\Shirts_0001.jpg,Shirts,train
+images\Shirts_0002.jpg,Shirts,train
+images\Shirts_0003.jpg,Shirts,train
+images\Shirts_0004.jpg,Shirts,train
+images\Shirts_0005.jpg,Shirts,train
+images\Shirts_0006.jpg,Shirts,train
+images\Shirts_0007.jpg,Shirts,train
+images\Shirts_0008.jpg,Shirts,train
+images\Shirts_0009.jpg,Shirts,train
+images\Shirts_0010.jpg,Shirts,train
+images\Shirts_0011.jpg,Shirts,train
+images\Shirts_0012.jpg,Shirts,train
+images\Shirts_0013.jpg,Shirts,train
+images\Shirts_0014.jpg,Shirts,train
+images\Shirts_0015.jpg,Shirts,train
+images\Shirts_0016.jpg,Shirts,train
+images\Shirts_0017.jpg,Shirts,train
+images\Shirts_0018.jpg,Shirts,train
+images\Shirts_0019.jpg,Shirts,train
+images\Shirts_0020.jpg,Shirts,train
+images\Shirts_0021.jpg,Shirts,val
+images\Shirts_0022.jpg,Shirts,val
+images\Shirts_0023.jpg,Shirts,val
+images\Shirts_0024.jpg,Shirts,val
+images\Shirts_0025.jpg,Shirts,test
+images\Shirts_0026.jpg,Shirts,test
+images\Shirts_0027.jpg,Shirts,test
+images\Shirts_0028.jpg,Shirts,test
+images\Shirts_0029.jpg,Shirts,test
+images\Tshirts_0000.jpg,Tshirts,train
+images\Tshirts_0001.jpg,Tshirts,train
+images\Tshirts_0002.jpg,Tshirts,train
+images\Tshirts_0003.jpg,Tshirts,train
+images\Tshirts_0004.jpg,Tshirts,train
+images\Tshirts_0005.jpg,Tshirts,train
+images\Tshirts_0006.jpg,Tshirts,train
+images\Tshirts_0007.jpg,Tshirts,train
+images\Tshirts_0008.jpg,Tshirts,train
+images\Tshirts_0009.jpg,Tshirts,train
+images\Tshirts_0010.jpg,Tshirts,train
+images\Tshirts_0011.jpg,Tshirts,train
+images\Tshirts_0012.jpg,Tshirts,train
+images\Tshirts_0013.jpg,Tshirts,train
+images\Tshirts_0014.jpg,Tshirts,train
+images\Tshirts_0015.jpg,Tshirts,train
+images\Tshirts_0016.jpg,Tshirts,train
+images\Tshirts_0017.jpg,Tshirts,train
+images\Tshirts_0018.jpg,Tshirts,train
+images\Tshirts_0019.jpg,Tshirts,train
+images\Tshirts_0020.jpg,Tshirts,train
+images\Tshirts_0021.jpg,Tshirts,val
+images\Tshirts_0022.jpg,Tshirts,val
+images\Tshirts_0023.jpg,Tshirts,val
+images\Tshirts_0024.jpg,Tshirts,val
+images\Tshirts_0025.jpg,Tshirts,test
+images\Tshirts_0026.jpg,Tshirts,test
+images\Tshirts_0027.jpg,Tshirts,test
+images\Tshirts_0028.jpg,Tshirts,test
+images\Tshirts_0029.jpg,Tshirts,test
+images\Casual_Shoes_0000.jpg,Casual Shoes,train
+images\Casual_Shoes_0001.jpg,Casual Shoes,train
+images\Casual_Shoes_0002.jpg,Casual Shoes,train
+images\Casual_Shoes_0003.jpg,Casual Shoes,train
+images\Casual_Shoes_0004.jpg,Casual Shoes,train
+images\Casual_Shoes_0005.jpg,Casual Shoes,train
+images\Casual_Shoes_0006.jpg,Casual Shoes,train
+images\Casual_Shoes_0007.jpg,Casual Shoes,train
+images\Casual_Shoes_0008.jpg,Casual Shoes,train
+images\Casual_Shoes_0009.jpg,Casual Shoes,train
+images\Casual_Shoes_0010.jpg,Casual Shoes,train
+images\Casual_Shoes_0011.jpg,Casual Shoes,train
+images\Casual_Shoes_0012.jpg,Casual Shoes,train
+images\Casual_Shoes_0013.jpg,Casual Shoes,train
+images\Casual_Shoes_0014.jpg,Casual Shoes,train
+images\Casual_Shoes_0015.jpg,Casual Shoes,train
+images\Casual_Shoes_0016.jpg,Casual Shoes,train
+images\Casual_Shoes_0017.jpg,Casual Shoes,train
+images\Casual_Shoes_0018.jpg,Casual Shoes,train
+images\Casual_Shoes_0019.jpg,Casual Shoes,train
+images\Casual_Shoes_0020.jpg,Casual Shoes,train
+images\Casual_Shoes_0021.jpg,Casual Shoes,val
+images\Casual_Shoes_0022.jpg,Casual Shoes,val
+images\Casual_Shoes_0023.jpg,Casual Shoes,val
+images\Casual_Shoes_0024.jpg,Casual Shoes,val
+images\Casual_Shoes_0025.jpg,Casual Shoes,test
+images\Casual_Shoes_0026.jpg,Casual Shoes,test
+images\Casual_Shoes_0027.jpg,Casual Shoes,test
+images\Casual_Shoes_0028.jpg,Casual Shoes,test
+images\Casual_Shoes_0029.jpg,Casual Shoes,test
+images\Sports_Shoes_0000.jpg,Sports Shoes,train
+images\Sports_Shoes_0001.jpg,Sports Shoes,train
+images\Sports_Shoes_0002.jpg,Sports Shoes,train
+images\Sports_Shoes_0003.jpg,Sports Shoes,train
+images\Sports_Shoes_0004.jpg,Sports Shoes,train
+images\Sports_Shoes_0005.jpg,Sports Shoes,train
+images\Sports_Shoes_0006.jpg,Sports Shoes,train
+images\Sports_Shoes_0007.jpg,Sports Shoes,train
+images\Sports_Shoes_0008.jpg,Sports Shoes,train
+images\Sports_Shoes_0009.jpg,Sports Shoes,train
+images\Sports_Shoes_0010.jpg,Sports Shoes,train
+images\Sports_Shoes_0011.jpg,Sports Shoes,train
+images\Sports_Shoes_0012.jpg,Sports Shoes,train
+images\Sports_Shoes_0013.jpg,Sports Shoes,train
+images\Sports_Shoes_0014.jpg,Sports Shoes,train
+images\Sports_Shoes_0015.jpg,Sports Shoes,train
+images\Sports_Shoes_0016.jpg,Sports Shoes,train
+images\Sports_Shoes_0017.jpg,Sports Shoes,train
+images\Sports_Shoes_0018.jpg,Sports Shoes,train
+images\Sports_Shoes_0019.jpg,Sports Shoes,train
+images\Sports_Shoes_0020.jpg,Sports Shoes,train
+images\Sports_Shoes_0021.jpg,Sports Shoes,val
+images\Sports_Shoes_0022.jpg,Sports Shoes,val
+images\Sports_Shoes_0023.jpg,Sports Shoes,val
+images\Sports_Shoes_0024.jpg,Sports Shoes,val
+images\Sports_Shoes_0025.jpg,Sports Shoes,test
+images\Sports_Shoes_0026.jpg,Sports Shoes,test
+images\Sports_Shoes_0027.jpg,Sports Shoes,test
+images\Sports_Shoes_0028.jpg,Sports Shoes,test
+images\Sports_Shoes_0029.jpg,Sports Shoes,test
+images\Dresses_0000.jpg,Dresses,train
+images\Dresses_0001.jpg,Dresses,train
+images\Dresses_0002.jpg,Dresses,train
+images\Dresses_0003.jpg,Dresses,train
+images\Dresses_0004.jpg,Dresses,train
+images\Dresses_0005.jpg,Dresses,train
+images\Dresses_0006.jpg,Dresses,train
+images\Dresses_0007.jpg,Dresses,train
+images\Dresses_0008.jpg,Dresses,train
+images\Dresses_0009.jpg,Dresses,train
+images\Dresses_0010.jpg,Dresses,train
+images\Dresses_0011.jpg,Dresses,train
+images\Dresses_0012.jpg,Dresses,train
+images\Dresses_0013.jpg,Dresses,train
+images\Dresses_0014.jpg,Dresses,train
+images\Dresses_0015.jpg,Dresses,train
+images\Dresses_0016.jpg,Dresses,train
+images\Dresses_0017.jpg,Dresses,train
+images\Dresses_0018.jpg,Dresses,train
+images\Dresses_0019.jpg,Dresses,train
+images\Dresses_0020.jpg,Dresses,train
+images\Dresses_0021.jpg,Dresses,val
+images\Dresses_0022.jpg,Dresses,val
+images\Dresses_0023.jpg,Dresses,val
+images\Dresses_0024.jpg,Dresses,val
+images\Dresses_0025.jpg,Dresses,test
+images\Dresses_0026.jpg,Dresses,test
+images\Dresses_0027.jpg,Dresses,test
+images\Dresses_0028.jpg,Dresses,test
+images\Dresses_0029.jpg,Dresses,test
+images\Handbags_0000.jpg,Handbags,train
+images\Handbags_0001.jpg,Handbags,train
+images\Handbags_0002.jpg,Handbags,train
+images\Handbags_0003.jpg,Handbags,train
+images\Handbags_0004.jpg,Handbags,train
+images\Handbags_0005.jpg,Handbags,train
+images\Handbags_0006.jpg,Handbags,train
+images\Handbags_0007.jpg,Handbags,train
+images\Handbags_0008.jpg,Handbags,train
+images\Handbags_0009.jpg,Handbags,train
+images\Handbags_0010.jpg,Handbags,train
+images\Handbags_0011.jpg,Handbags,train
+images\Handbags_0012.jpg,Handbags,train
+images\Handbags_0013.jpg,Handbags,train
+images\Handbags_0014.jpg,Handbags,train
+images\Handbags_0015.jpg,Handbags,train
+images\Handbags_0016.jpg,Handbags,train
+images\Handbags_0017.jpg,Handbags,train
+images\Handbags_0018.jpg,Handbags,train
+images\Handbags_0019.jpg,Handbags,train
+images\Handbags_0020.jpg,Handbags,train
+images\Handbags_0021.jpg,Handbags,val
+images\Handbags_0022.jpg,Handbags,val
+images\Handbags_0023.jpg,Handbags,val
+images\Handbags_0024.jpg,Handbags,val
+images\Handbags_0025.jpg,Handbags,test
+images\Handbags_0026.jpg,Handbags,test
+images\Handbags_0027.jpg,Handbags,test
+images\Handbags_0028.jpg,Handbags,test
+images\Handbags_0029.jpg,Handbags,test

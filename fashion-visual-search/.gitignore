@@ -1,0 +1,23 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# large data files
+data/raw/
+data/subset/
+
+# hash files only (not the embeddings themselves)
+embeddings/*.md5
+
+# generated reports
+reports/*.png
+reports/*.csv
+
+# model weights
+models/*.h5
+models/*.weights.h5
+models/embeddings/
+
+# Streamlit secrets
+.streamlit/secrets.toml
